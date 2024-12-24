@@ -1,0 +1,11 @@
+/home/deivison-costa/Área de trabalho/programas/rust/pendulum/pendulum/target/debug/deps/libgif-8e8bc8fac69f1e18.rmeta: /home/deivison-costa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/lib.rs /home/deivison-costa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/traits.rs /home/deivison-costa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/common.rs /home/deivison-costa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/reader/mod.rs /home/deivison-costa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/reader/decoder.rs /home/deivison-costa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/encoder.rs /home/deivison-costa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/../README.md
+
+/home/deivison-costa/Área de trabalho/programas/rust/pendulum/pendulum/target/debug/deps/gif-8e8bc8fac69f1e18.d: /home/deivison-costa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/lib.rs /home/deivison-costa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/traits.rs /home/deivison-costa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/common.rs /home/deivison-costa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/reader/mod.rs /home/deivison-costa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/reader/decoder.rs /home/deivison-costa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/encoder.rs /home/deivison-costa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/../README.md
+
+/home/deivison-costa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/lib.rs:
+/home/deivison-costa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/traits.rs:
+/home/deivison-costa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/common.rs:
+/home/deivison-costa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/reader/mod.rs:
+/home/deivison-costa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/reader/decoder.rs:
+/home/deivison-costa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/encoder.rs:
+/home/deivison-costa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gif-0.11.4/src/../README.md:
